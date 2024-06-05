@@ -1,5 +1,5 @@
 Comandos e nomenclaturas git (Baseados na aula de Git Udemy)
-
+.
 A maior parte do trabalho com git consiste em:
 . Editar e salvar (git add)
 . Commitar (git commit)
